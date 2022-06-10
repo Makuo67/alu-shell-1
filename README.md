@@ -1,2 +1,1 @@
-# alu-shell
-second repo
+This is the read me for alu-shell
