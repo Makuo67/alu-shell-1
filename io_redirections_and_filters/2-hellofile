@@ -1,2 +1,2 @@
-2-hellofile
-README.md
+#!/bin/bash
+cat /etc/passwd
